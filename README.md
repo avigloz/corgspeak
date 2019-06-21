@@ -5,7 +5,9 @@
 
 A language for, and (probably?) by corgis.
 
-*corgspeak → english coming soon!*
+Currently, there's only English to Corgspeak translation.
+
+*corgspeak → english coming eventually!*
 
 ### corgspeak v1 standards:
 
