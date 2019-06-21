@@ -1,6 +1,7 @@
 # corgspeak
 <p align="left">
-<img src="https://img.shields.io/badge/corgi%20status%20%F0%9F%90%95-happy-green.svg" />
+  <img src="https://img.shields.io/badge/corgi%20status%20%F0%9F%90%95-happy-green.svg" />
+  <img src="https://img.shields.io/badge/useful-maybe%3F-yellowgreen.svg" />
 </p>
 
 A language for, and (probably?) by corgis.
